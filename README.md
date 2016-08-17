@@ -23,12 +23,17 @@ This is a little subversion of script to install Odoo V8.0 in Ubuntu 14.04.
 Don't worry, be happy.
 
 Lil' tips by comand line:
-1. sudo start /etc/init.d/odoo-server   (nyet)
-2. sudo finish /etc/init.d/odoo-server  (nein)
-3. sudo reboot /etc/init.d/odoo-server  (good!)
+
+sudo start /etc/init.d/odoo-server   (nyet)
+
+sudo finish /etc/init.d/odoo-server  (nein)
+
+sudo reboot /etc/init.d/odoo-server  (good!)
 
 When close automatically the administrators sessión just:
-1. usr: admin
-2. pswrd: password_of_db
+
+usr: admin
+
+pswrd: password_of_db
 
 Long live and prosper!
