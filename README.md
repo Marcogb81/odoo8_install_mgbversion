@@ -24,27 +24,27 @@ Don't worry, be happy.
 
 Lil' tips by comand line:
 
-sudo start /etc/init.d/odoo-server   (nyet)
+a) sudo start /etc/init.d/odoo-server   (nyet)
 
-sudo finish /etc/init.d/odoo-server  (nein)
+b) sudo finish /etc/init.d/odoo-server  (nein)
 
-sudo reboot /etc/init.d/odoo-server  (good!)
+c) sudo reboot /etc/init.d/odoo-server  (good!)
 
 When close automatically the administrators sessión just:
 
-usr: admin
+1) usr: admin
 
-pswrd: password_of_db
+2) pswrd: password_of_db
 
 How create your own module(muahahaha):
-1. cd /opt/odoo/odoo-server
-2. python odoo.py scaffold "module_name" /opt/odoo/modulos/
+1) cd /opt/odoo/odoo-server
+2) python odoo.py scaffold "module_name" /opt/odoo/modulos/
 
 Explain:
-1. scaffold : command who creates basic structure for Odoo's modules
-2. "module_name" : name of the module, Ex. "Academy"
-3. /opt/odoo/modulos/ : place where will create the structures of the module
-4. especific example: python odoo.py scaffold Academy /opt/odoo/modulos/
+1) scaffold : command who creates basic structure for Odoo's modules
+2) "module_name" : name of the module, Ex. "Academy"
+3) /opt/odoo/modulos/ : place where will create the structures of the module
+4) especific example: python odoo.py scaffold Academy /opt/odoo/modulos/
  
 
 Long live and prosper!
