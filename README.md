@@ -52,5 +52,9 @@ Explain:
 
 4) especific example: sudo python odoo.py scaffold Academy /opt/odoo/modulos/
  
+# In this part I recomend use two tools for work properly with archives:
+# Bluefish editor for Linux
+# SPE Stani's Python Editor for porperly Pythonic way for developing
+# Do not give me the congrats, just pay my beers.
 
 Long live and prosper!
