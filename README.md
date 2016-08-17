@@ -20,14 +20,15 @@ This is a little subversion of script to install Odoo V8.0 in Ubuntu 14.04.
 15. Create data base
 16. And from here you can install and manage modules or create your own modules
 
+Don't worry, be happy.
 
 Lil' tips by comand line:
-	1. sudo start /etc/init.d/odoo-server   (nyet)
-	2. sudo finish /etc/init.d/odoo-server  (nein)
-	3. sudo reboot /etc/init.d/odoo-server  (good!)
+1. sudo start /etc/init.d/odoo-server   (nyet)
+2. sudo finish /etc/init.d/odoo-server  (nein)
+3. sudo reboot /etc/init.d/odoo-server  (good!)
 
 When close automatically the administrators sessión just:
-	1. usr: admin
-	2. pswrd: password_of_db
+1. usr: admin
+2. pswrd: password_of_db
 
 Long live and prosper!
