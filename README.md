@@ -54,9 +54,9 @@ Explain:
  
 - In this part I recomend use two tools for work properly with archives:
 
--- Bluefish editor for Linux
+- Bluefish editor for Linux
 
--- SPE Stani's Python Editor for porperly Pythonic way for developing
+- SPE Stani's Python Editor for porperly Pythonic way for developing
 
 - Do not give me the congrats, just pay my beers.
 
