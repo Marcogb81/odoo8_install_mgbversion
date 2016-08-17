@@ -37,13 +37,19 @@ When close automatically the administrators sessión just:
 2) pswrd: password_of_db
 
 How create your own module(muahahaha):
+
 1) cd /opt/odoo/odoo-server
+
 2) python odoo.py scaffold "module_name" /opt/odoo/modulos/
 
 Explain:
+
 1) scaffold : command who creates basic structure for Odoo's modules
+
 2) "module_name" : name of the module, Ex. "Academy"
+
 3) /opt/odoo/modulos/ : place where will create the structures of the module
+
 4) especific example: python odoo.py scaffold Academy /opt/odoo/modulos/
  
 
