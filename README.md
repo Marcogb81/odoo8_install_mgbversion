@@ -50,7 +50,7 @@ Explain:
 
 3) /opt/odoo/modulos/ : place where will create the structures of the module
 
-4) especific example: python odoo.py scaffold Academy /opt/odoo/modulos/
+4) especific example: sudo python odoo.py scaffold Academy /opt/odoo/modulos/
  
 
 Long live and prosper!
