@@ -1,0 +1,1 @@
+# odoo8_install_mgbversion
