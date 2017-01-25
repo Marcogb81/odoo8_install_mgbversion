@@ -22,11 +22,11 @@ This is a little subversion of script to install Odoo V8.0 in Ubuntu 14.04.
 
 Don't worry, be happy.
 
-Lil' tips by comand line:
+Lil' tips by comand line in /opt/odoo/odoo-server$ :
 
-a) sudo start /etc/init.d/odoo-server   (nyet)
+a)  sudo /etc/init.d/odoo-server start
 
-b) sudo finish /etc/init.d/odoo-server  (nein)
+b)  sudo /etc/init.d/odoo-server stop
 
 c) sudo reboot /etc/init.d/odoo-server  (good!)
 
